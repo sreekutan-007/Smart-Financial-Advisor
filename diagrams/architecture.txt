@@ -1,0 +1,11 @@
+Smart Financial Advisor System Architecture
+
+User
+  ↓
+React Frontend / Mobile App
+  ↓
+Streamlit Backend
+  ↓
+Financial Data Processing
+  ↓
+Visualization & Insights
